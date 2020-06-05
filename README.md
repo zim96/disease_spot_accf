@@ -7,4 +7,4 @@ An implementation by zim96. I am implementing it in stages because I have yet to
 
 ## Understanding Singular Value Decomposition (SVD) and Image Compression
 
-I implemented an image compression method using SVD in a Jupyter Notebook named `svd_image_compression`. This allowed me understand the use of SVD for images and how an SVD is calculated via Correlation Matrices.
+I implemented an image compression method using SVD in a Jupyter Notebook named `svd_image_compression`. This allowed me understand the use of SVD for images and how an SVD is calculated via Correlation Matrices. I included a block of code that produces an animation of the compressed image to visualise the change of energy state of the image.
